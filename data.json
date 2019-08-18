@@ -1,0 +1,26 @@
+[
+  {
+    "movingAverageWindowSize": 3,
+    "medianFilterWindowSize": 5
+  },
+  {
+    "movingAverageWindowSize": 5,
+    "medianFilterWindowSize": 7
+  },
+  {
+    "movingAverageWindowSize": 7,
+    "medianFilterWindowSize": 9
+  },
+  {
+    "movingAverageWindowSize": 9,
+    "medianFilterWindowSize": 5
+  },
+  {
+    "movingAverageWindowSize": 3,
+    "medianFilterWindowSize": 7
+  },
+  {
+    "movingAverageWindowSize": 5,
+    "medianFilterWindowSize": 9
+  }
+]
